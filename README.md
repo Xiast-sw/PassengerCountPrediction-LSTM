@@ -17,3 +17,6 @@ Bu proje, uçak yolcu sayısını tahmin etmek için LSTM (Long Short-Term Memor
 
 ## Katkıda Bulunanlar
 Adil Buğra AYTAR
+
+## Lisans
+Bu proje MIT Lisansı ile lisanslanmıştır.
