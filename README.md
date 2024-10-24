@@ -14,3 +14,6 @@ Bu proje, uçak yolcu sayısını tahmin etmek için LSTM (Long Short-Term Memor
 ## Veri Seti
 - Veri seti [Air Passengers Dataset](https://www.kaggle.com/datasets/chirag19/air-passengers) adresinden alınmıştır.
 - Veriler, aylık uçak yolcu sayılarını içermektedir.
+
+## Katkıda Bulunanlar
+Adil Buğra AYTAR
