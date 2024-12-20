@@ -1,9 +1,9 @@
 # Passenger Count Prediction - LSTM
 
-## Proje Açıklaması
-Bu proje, uçak yolcu sayısını tahmin etmek için LSTM (Long Short-Term Memory) modelini kullanmaktadır. Air passengers veri setini temel alarak zaman serisi analizi gerçekleştirilmiştir.
+## Project Description
+This project uses an LSTM (Long Short-Term Memory) model to predict the number of airline passengers. Time series analysis was performed based on the Air Passengers dataset.
 
-## Kullanılan Teknolojiler
+## Technologies Used
 - Python
 - Keras
 - TensorFlow
@@ -11,12 +11,12 @@ Bu proje, uçak yolcu sayısını tahmin etmek için LSTM (Long Short-Term Memor
 - Pandas
 - Matplotlib
 
-## Veri Seti
-- Veri seti [Air Passengers Dataset](https://www.kaggle.com/datasets/chirag19/air-passengers) adresinden alınmıştır.
-- Veriler, aylık uçak yolcu sayılarını içermektedir.
+## Dataset
+- The dataset was sourced from [Air Passengers Dataset](https://www.kaggle.com/datasets/chirag19/air-passengers).
+- The data contains monthly airline passenger counts.
 
-## Katkıda Bulunanlar
+## Contributors
 Adil Buğra AYTAR
 
-## Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır.
+## License
+This project is licensed under the MIT License.
